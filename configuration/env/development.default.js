@@ -1,8 +1,8 @@
 module.exports = {
 	verificationToken: 'El8v1xtuFnYGE1RuuAYPljtF',
-	oAuthAccessToken: 'xoxp-363603873302-363759356951-378764749347-c348d59954d670919676d5161cbbf4a4',
-	botToken: 'xoxb-363603873302-365443179825-csyM5RDtDUQHx6MMhLZ3u0nr',
-	tragetedChannel: '#test',
+	oAuthAccessToken: 'xoxp-363603873302-362849389029-404169646215-33a53943dcdfeb70d7f478156732036f',
+	botToken: 'xoxb-363603873302-365443179825-vygYjm3IYTu2At96j0XxRJja',
+	tragetedChannel: '#rating',
 	maxNumberOfStarsPerMonth: 5,
 	starIcon: ':star2:',
 	nomineesCount: 3
